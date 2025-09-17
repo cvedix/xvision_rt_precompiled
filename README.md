@@ -1,6 +1,6 @@
-# ExNVR Precompiled
+# Precompiled
 
-Pre-compiled dependencies for [ExNVR](https://github.com/evercam/ex_nvr).
+Pre-compiled dependencies internal project.
 
 ## Dependencies
 
